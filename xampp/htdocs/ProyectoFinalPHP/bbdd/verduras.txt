@@ -1,0 +1,326 @@
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (1,'Zanahoria - 500 g','',0.93,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (2,'Calabacín - 800 g','',3.16,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (3,'Patata - 3 kg','',3.65,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (4,'Cebolla Butti - 1 kg','',1.29,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (5,'Puerro Limpio - 420 g','',1.35,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (6,'Aguacate Maduro - 470 g','',4.09,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (7,'Calabaza Troceada - 400 g','',1.33,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (8,'Brócoli - 500 g','',1.83,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (9,'Berenjenas - 600 g','',1.83,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (10,'Tomate Cherry - 250g','',1.29,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (11,'Tomate Rama - 750 g','',2.25,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (12,'Pimiento Rojo - 600 g','',2.43,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (13,'Pimiento Italiano - 500 g','',1.83,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (14,'Pepinos - 400 g','',1.28,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (15,'Judía Verde - 500 g','',2.68,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (16,'Ajos - 270 g','',1.65,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (17,'Champiñón Laminado cultivado - 250 g','',1.25,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (18,'Coliflor - 980 Gr','',3.08,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (19,'Batata - 600 gr','',2.23,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (20,'Lechuga Trocadero - 380 g','',1.85,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (21,'Nabo - 350 gr.','',1.28,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (22,'Alcachofa Bandeja - 750 gr','',3.46,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (23,'Boniato unidad (600 gr aprox.)','',1.13,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (24,'Maíz Dulce Cocido - 450 gr','',1.24,50,1);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (25,'TREVIJANO boletus deshidratado bandeja 40 gr','',4.49,50,1);
+
+
+
+
+
+
+
+
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (26,'Elpozo Picada de Vacuno - 500 gr','',2.75,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (27,'Coren - Pechuga Fileteada Pollo Corral Bandeja, 450 gramos','',5.29,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (28,'Coren - Fileteada de Pavo Bandeja, 450 gramos
+','',3.78,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (29,'Lomo extra adobado bandeja 300 gr','',2.50,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (30,'Chuletas de Cordero Lechal - 500 g','',9.22,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (31,'Campofrio - Pechuga Pavo Finissimas, 115 g','',1.79,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (32,'Medios Lomos de Salmón Noruego Superior - 350 g','',9.16,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (33,'La Gula del Norte - Gulas Frescas , Bandeja 220 gr (2 x 110 g)','',5.95,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (34,'Royal - Salmón ahumado dúo - 100 g en 2 packs','',5.40,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (35,'Hamburguesa Ternera Gallega - 240 gramos','',3.05,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (36,'Filetes de Ternera 1ªA - 500 g','',6.79,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (37,'Ragout de Ternera - 500 g','',4.26,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (38,'Coren - Hamburguesa pollo corral con espinacas 250 gr','',2.85,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (39,'Churrasco de Ternera - 500 g','',4.29,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (40,'Solomillos de pollo bandeja 350 gr','',2.62,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (41,'Alitas de pollo partidas 520 gr','',1.99,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (42,'Jamoncitos de pollo familiar bandeja (peso aprox. 1.2 Kg)','',4.56,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (43,'SERRANO longaniza de pavo y pollo 320 gr','',2.10,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (44,'Coren - Salchicha de Pollo de Corral, 250 gr','',3.51,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (45,'Albóndigas de pollo bandeja 328 gr','',1.99,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (46,'Chuletas de pavo al ajillo bandeja (peso aprox. 800 gr)','',4.64,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (47,'Solomillo de cerdo (peso aprox. 585 gr)','',4.73,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (48,'Chorizo oreado (peso aprox. 500 gr)','',3.20,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (49,'Chuletitas Cordero lechal de Segovia - bandeja, 1 kg
+','',29.99,50,2);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (50,'Dorada Entera Limpia - 300 g','',3.69,50,2);
+
+
+
+
+
+
+
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (51,'Garcia Baquero Queso Fresco de Cabra - 500gr','',7.15,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (52,'Flor De Esgueva - Queso De Oveja Viejo - 250 g','',3.85,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (53,'Central Lechera Asturiana - Leche Semidesnatada Brik 1L (Pack 6)','',4.74,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (54,'Danone Actimel - Natural, Pack 6 x 100 g','',2.99,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (55,'NESTLÉ LA LECHERA - Dulce de leche - Leche condensada - Lata de leche condensada abre fácil 397g','',2.06,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (56,'Queso Pajarete mezcla oveja y cabra curado - trozo, 200 gramos','',5.94,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (57,'Crema de queso de cabra 125g TGT','',1.45,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (58,'GARCIA BAQUERO queso curado cuña 310 g','',4.25,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (59,'Navidul, Mezcla de quesos envasadas (Curado) - 90 gr.
+','',1.00,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (60,'Queso Mimolette curado 18 meses - envase al vacío, 350 gramos','',12.39,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (61,'Coren - Huevos Camperos - 10 unidades','',2.48,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (62,'Central Lechera Asturiana - Mantequilla Tradicional, 250 g','',2.29,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (63,'DIA nata spray 250 ml','',1.05,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (64,'Mantequilla asturiana con sal - 1 unidad, 250 gramos','',6.90,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (65,'Queso Zamorano semicurado leche cruda - cuña, 350 gramos','',8.63,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (66,'Queso crema Philadelphia, 200 gramos','',3.20,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (67,'La Vaca Que Ríe - Queso Fundido Para Untar, 250 g','',2.10,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (68,'Castello Piña Queso de Untar - 125 gr.','',1.79,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (69,'VALDEÓN - GARGANTA DEL CARES queso crema cabrales tarro 200 g','',3.79,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (70,'Arla Queso Havarti Lonchas - 150 gr','',2.40,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (71,'Lonchas de queso havarti 200g Oldenburger','',2.09,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (72,'Queso barra línea en lonchas, 200 gramos','',3.50,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (73,'Las Tapas Del El Pastor De La Polvorosa - Queso De Oveja Curado, 250 g','',4.50,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (74,'Arla Queso Rallado Cheddar & Mozzarella - 150 gr.','',2.48,50,3);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (75,'El Caserio - Queso Gratinar 4 Quesos, 140 g','',2.09,50,3);
+
+
+
+
+
+
+
+
+
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (76,'Doritos - Tex-Mex - Producto de Aperitivo de Maíz Frito con Sabor Queso - 150 g','Ingredientes: maíz (80%), aceite de palma, condimento preparado con sabor a queso, derivados de leche (contienen lactosa), harina de trigo, queso en polvo (de leche), tomate en polvo, sustancias aromatizantes, aceite de girasol, cebolla en polvo, suero de mantequilla en polvo (de leche), cloruro potásico, potenciador del sabor (glutamato monosódico), ajo en polvo, dextrosa, reguladores de acidez (ácido cítrico), colorantes (extracto de pimentón, annatto, caramelo natural), especias, azúcar, sal.',1.30,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (77,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (78,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (79,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (80,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (81,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (82,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (83,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (84,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (85,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (86,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (87,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (88,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (89,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (90,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (91,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (92,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (93,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (94,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (95,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (96,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (97,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (98,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (99,'','',,50,4);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (100,'','',,50,4);
+
+
+
+
+
+
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (1,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (2,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (3,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (4,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (5,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (6,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (7,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (8,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (9,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (10,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (11,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (12,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (13,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (14,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (15,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (16,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (17,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (18,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (19,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (20,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (21,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (22,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (23,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (24,'','',,50,5);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (25,'','',,50,5);
+
+
+
+
+
+
+
+
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (1,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (2,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (3,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (4,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (5,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (6,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (7,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (8,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (9,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (10,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (11,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (12,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (13,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (14,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (15,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (16,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (17,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (18,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (19,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (20,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (21,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (22,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (23,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (24,'','',,50,6);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (25,'','',,50,6);
+
+
+
+
+
+
+
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (1,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (2,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (3,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (4,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (5,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (6,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (7,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (8,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (9,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (10,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (11,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (12,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (13,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (14,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (15,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (16,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (17,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (18,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (19,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (20,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (21,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (22,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (23,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (24,'','',,50,7);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (25,'','',,50,7);
+
+
+
+
+
+
+
+
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (1,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (2,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (3,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (4,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (5,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (6,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (7,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (8,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (9,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (10,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (11,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (12,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (13,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (14,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (15,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (16,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (17,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (18,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (19,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (20,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (21,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (22,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (23,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (24,'','',,50,8);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (25,'','',,50,8);
+
+
+
+
+
+
+
+
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (1,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (2,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (3,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (4,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (5,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (6,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (7,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (8,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (9,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (10,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (11,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (12,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (13,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (14,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (15,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (16,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (17,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (18,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (19,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (20,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (21,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (22,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (23,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (24,'','',,50,9);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (25,'','',,50,9);
+
+
+
+
+
+
+
+
+
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (1,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (2,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (3,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (4,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (5,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (6,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (7,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (8,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (9,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (10,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (11,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (12,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (13,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (14,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (15,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (16,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (17,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (18,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (19,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (20,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (21,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (22,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (23,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (24,'','',,50,10);
+INSERT INTO `productos`(`id_producto`, `nombre_producto`, `descripcion`, `coste`, `stock`, `categorias_productos_id_categoria`) VALUES (25,'','',,50,10);
+
+
+Bonita-08
